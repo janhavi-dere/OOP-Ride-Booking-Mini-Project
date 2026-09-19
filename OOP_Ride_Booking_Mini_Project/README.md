@@ -9,14 +9,6 @@ A simple console-based ride booking application developed as a Second Year CSE O
 - **Language:** Java
 - **Type:** Console application
 
-## Team
-| Roll No | PRN No | Name |
-|---|---|---|
-| 60 | 1272250825 | Janhavi Dere |
-| 63 | 1272250828 | Aditya Karmalkar |
-| 64 | 1272250829 | Ishaan Khatavkar |
-| 61 | 1272250826 | Kaushal Deshpande |
-
 ## Overview
 
 The project demonstrates basic Object-Oriented Programming concepts through a simplified ride-booking system. A user can enter rider details, choose a driver and ride type, and receive a calculated fare.
